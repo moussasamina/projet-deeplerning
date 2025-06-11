@@ -1,1 +1,1 @@
-from typing
+print("Hello World")
